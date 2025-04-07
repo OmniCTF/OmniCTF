@@ -5,7 +5,8 @@
 ![GitHub stars](https://img.shields.io/github/stars/CodingRule/OmniCTF?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/CodingRule/OmniCTF?style=social)
 
-Welcome to **OmniCTF**! This is the beginning of an epic journey into the world of Capture The Flag (CTF) challenges. As 'Omni' suggests, this repository aims to encompass a wide array of challenges that will test and enhance your cybersecurity skills over time.
+Welcome to **OmniCTF**! This is the beginning of a journey into the world of CyberSecurity challenges. As 'Omni' suggests, this repository aims to encompass a wide variety of challenges that will test and enhance your cybersecurity skills over time. 
+This is not only for you, but for me — a start to creating something meaningful, fueled by curiosity, imagination, and the joy of learning through challenge.
 
 ## 🌟 Features
 
