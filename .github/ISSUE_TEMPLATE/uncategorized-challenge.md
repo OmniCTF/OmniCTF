@@ -11,7 +11,7 @@ assignees: ''
 - **Challenge name:**  
 - **Current difficulty:**  
 - **Challenge path:**  
-- **Author (if known):**
+- **Author:**
 
 ### 🤔 What’s the issue?
 Explain why you think the challenge difficulty is incorrect.
