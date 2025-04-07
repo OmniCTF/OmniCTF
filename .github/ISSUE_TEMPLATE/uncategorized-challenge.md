@@ -24,9 +24,9 @@ Choose the difficulty level you believe is more accurate:
 - [ ] Hard  
 
 ### 🗨️ Additional Notes
-Anything else that could help the moderators make a decision?
+Anything else that could help the maintainers make a decision?
 
 ---
 
-Once reviewed by a moderator, the challenge can be re-ranked accordingly.  
+Once reviewed by a maintainer, the challenge can be re-ranked accordingly.  
 Thanks for making OmniCTF a better experience for everyone! 🚩
