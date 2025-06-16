@@ -16,7 +16,4 @@ This is not only for you, but for me — a start to creating something meaningfu
 
 ## 🛠️ Getting Started
 
-1. **Clone the Repository:**
 
-   ```bash
-   git clone https://github.com/yourusername/OmniCTF.git
